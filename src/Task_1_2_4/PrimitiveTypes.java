@@ -1,4 +1,6 @@
-public class Main {
+package Task_1_2_4;
+
+public class PrimitiveTypes {
     public static void main(String[] args) {
         boolean varboolean=true;
         byte varbyte=100;
