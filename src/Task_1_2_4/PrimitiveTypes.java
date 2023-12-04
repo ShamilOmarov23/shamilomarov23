@@ -20,5 +20,5 @@ public class PrimitiveTypes {
             System.out.println(varFloat);
             System.out.println(varChar);
     }
-}
+   }
 }
